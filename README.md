@@ -1,3 +1,4 @@
+<img width="960" alt="Greenshot 2023-06-06 10 41 43" src="https://github.com/RaineHanley/Veganbot2.0/assets/132282865/6e93960b-c4b3-4d4d-b47b-0bbfb3e8aeda">
 # Veganbot2.0
 
 I wanted to create a chatbot for my first individual project. I started to look on google to find some code that I could implement. I quickly found that I was going to have to learn possibly a new langauge and use sources I havent used yet. I decided to go with https://beebom.com/how-build-own-ai-chatbot-with-chatgpt-api/. the reason I chose this was the fact that it was easy to read and understand..partially.
@@ -9,3 +10,5 @@ I wanted my chatbot to specifically create vegan recipies using the ingredients 
 I also added a vegan fact after the output.
 
 Overall, I was proud of this accomplishment. I realized that leanring a language on my own is okay. I am not afraid of that anymore. I also learned that it takes a lot of time to be able to dive into something new and really learn the ins and outs of it. My time management was pretty good as I did finish the MVP's of the project with time to dive deeper into Gradio.
+
+
